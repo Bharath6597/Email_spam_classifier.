@@ -1,2 +1,2 @@
-# Email_spam_classifier.
-Email_spam_classifier using ML and python
+# email-spam-classifier-new
+End to end code for the email spam classifier project
